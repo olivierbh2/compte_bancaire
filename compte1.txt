@@ -1,0 +1,2 @@
+Nom	Prenom	Age
+Bush	George	80
